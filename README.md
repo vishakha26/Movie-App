@@ -1,1 +1,1 @@
-This is a Project to Display Movie Tiles based on User's Feedback
+Project to Display Movie Information based on User' Rating and popularity.
