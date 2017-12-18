@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+   <string name="most_popular">Most popular</string>
+    <string name="top_rated">Top Rating</string>
+    <string name="release">Release:</string>
+    <string name="rating">Rating:</string>
+    <string name="overview">Overview:\n</string>
+    <string name="message">Getting Movie Data from TMDB</string>
+    <string name="popularityMessage">Sorted Movies by Popularity</string>
+    <string name="ratingMessage">Sorted Movies by User Rating</string>
+    <string name="movie">movie</string>
+    <string name="baseURL">https://image.tmdb.org/t/p/</string>
+    <string name="ImageSize">w500</string>
+</resources>
